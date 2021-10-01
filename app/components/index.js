@@ -9,7 +9,7 @@ const AppStack = createStackNavigator({
     Home:{
         screen: HomeScreen,
         navigationOptions: ({ navigation }) => ({
-            title: `Mesa de Partes Chamaca`,
+            title: `Mesa de Partes Muni Chamaca`,
         }),
     },
     NewQuote:{
